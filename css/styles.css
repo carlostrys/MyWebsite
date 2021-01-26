@@ -1,0 +1,156 @@
+
+
+body{
+  display:block;
+  margin:0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+  color:#40514e;
+}
+
+h1{
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625em;
+  margin: 50px auto 0;
+    color: #66BFBF;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color:#11999E;
+}
+
+hr{
+  border: 7px dotted #EAF6f6;
+  border-bottom-style: none;
+  width:10%;
+}
+
+.middle h2{
+  font-size: 2em;
+}
+
+.programmer{
+  text-decoration: underline;
+}
+
+.btn{
+  color:#66BFBF;
+}
+
+.footer-link{
+  color: #11999E;
+  padding: 10px;
+
+}
+
+.top h2{
+  line-height: 2em;
+  font-weight: normal;
+}
+
+.top{
+  position: relative;
+  padding-top: 100px;
+  background-color: #eaf6f6;
+}
+
+.middle{
+
+
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px;
+    text-align: left;
+    line-height: 2;
+}
+
+.language {
+  width:25%;
+  float:left;
+  margin-right: 30px;
+}
+
+
+
+.webdev {
+  width:25%;
+  float:right;
+  margin-left: 30px;
+}
+
+.contact-me{
+  margin: 50px auto;
+}
+
+
+.bottom{
+  background-color: #66bfbf;
+  padding: 40px;
+}
+
+a:hover{
+  color: #eaf6f6;
+}
+
+.copyright{
+  color:#eaf6f6;
+  margin-top:35px;
+  font-size: .75em;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud{
+  position:absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.profile{
+  margin-top: 30px;
+}
+
+.BUTTON_SIV {
+   -webkit-border-radius: 11px;
+   -moz-border-radius: 11px;
+   border-radius: 11px;
+   color: #FFFFFF;
+   font-family: Georgia;
+   font-size: 25px;
+   font-weight: 100;
+   padding: 14px;
+   background-color: #11999E;
+   text-shadow: 1px 1px 20px #000000;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin-top:20px;
+}
+
+.BUTTON_SIV:hover {
+   border: solid #337FED 1px;
+   background: #1E62D0;
+   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
+   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none;
+}
